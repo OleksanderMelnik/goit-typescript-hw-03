@@ -11,6 +11,8 @@
     "module": "es2020",
     "skipLibCheck": true,
     "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,         
+    "strict": true,
     "target": "es2019",
     "sourceMap": true
   },
